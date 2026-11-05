@@ -1,0 +1,73 @@
+{
+  "site": {
+    "name": "Jackson Bethune",
+    "eyebrow": "COMPUTER ENGINEERING · LSU",
+    "headline": "Building at the intersection of hardware and software.",
+    "intro": "I'm Jackson Bethune, a computer engineering student interested in robotics, embedded systems, digital hardware, and practical engineering design.",
+    "about": "I'm studying Computer Engineering at Louisiana State University. I enjoy solving problems that cross disciplines—from writing robot control software to designing physical systems and working with digital logic.",
+    "about2": "My experience includes FTC robotics programming and design leadership, FPGA coursework, power electronics, and Formula SAE CAD work.",
+    "skills": "Verilog, KiCad, SolidWorks, Robotics, Digital Logic, PCB Design",
+    "contact": "I am interested in internship opportunities in computer and electrical engineering.",
+    "github": "https://github.com/CoolRobots",
+    "linkedin": "",
+    "resume": "",
+    "email": ""
+  },
+  "projects": {
+    "ftc-senior": {
+      "title": "FTC Robotics — Senior Year",
+      "meta": "2025–2026 · LEAD DESIGNER & PROGRAMMER",
+      "description": "Led robot design and contributed programming for a competitive FTC robot.",
+      "tags": "Robotics, Mechanical Design, Programming",
+      "image": "",
+      "overview": "Describe the robot’s objective, major subsystems, and your responsibilities.",
+      "challenges": "Describe one specific mechanical design challenge, what alternatives you considered, and why you chose the final approach.",
+      "results": "Describe one programming challenge and how you tested the solution.",
+      "tools": "Add your tools, source-code repository link, design files, and relevant documentation here. Only share team or course materials you have permission to publish."
+    },
+    "ftc-junior": {
+      "title": "FTC Robotics — Junior Year",
+      "meta": "2024–2025 · PROGRAMMER",
+      "description": "Developed robot software as part of an FTC team.",
+      "tags": "Robotics, Software, Controls",
+      "image": "",
+      "overview": "Describe the game objective and which software components you personally developed.",
+      "challenges": "Describe a difficult debugging or control problem and the steps you took to resolve it.",
+      "results": "Add evidence such as code snippets, test results, or match performance.",
+      "tools": "Add your tools, source-code repository link, design files, and relevant documentation here. Only share team or course materials you have permission to publish."
+    },
+    "buck-converter": {
+      "title": "12V → 5V Buck Converter",
+      "meta": "POWER ELECTRONICS · IN PROGRESS",
+      "description": "Designed a DC-DC buck converter schematic around the TI LMR51430.",
+      "tags": "KiCad, Power Electronics, PCB",
+      "image": "",
+      "overview": "Describe design requirements such as input voltage, target output voltage, and expected load current.",
+      "challenges": "Explain component choices, datasheet calculations, protection decisions, and ERC results.",
+      "results": "Add PCB layout, prototype photos, and measured ripple/efficiency only after testing.",
+      "tools": "Add your tools, source-code repository link, design files, and relevant documentation here. Only share team or course materials you have permission to publish."
+    },
+    "fpga-piano": {
+      "title": "FPGA Digital Piano",
+      "meta": "DIGITAL HARDWARE · COURSE PROJECT",
+      "description": "Built Verilog modules for note generation and waveform output.",
+      "tags": "Verilog, FPGA, Digital Logic",
+      "image": "",
+      "overview": "Explain the clock frequency, note generation, and module architecture.",
+      "challenges": "Explain how the sine-wave lookup table works and how the switch selects the waveform.",
+      "results": "Add code excerpts, simulation screenshots, and a demo recording.",
+      "tools": "Add your tools, source-code repository link, design files, and relevant documentation here. Only share team or course materials you have permission to publish."
+    },
+    "formula-sae": {
+      "title": "Formula SAE Switch Panel",
+      "meta": "CAD & MANUFACTURING · IN PROGRESS",
+      "description": "Designed a master switch panel in SolidWorks.",
+      "tags": "SolidWorks, CAD, Formula SAE",
+      "image": "",
+      "overview": "Explain the panel’s function and geometric constraints.",
+      "challenges": "Discuss mounting hole placement, clearance, sheet metal features, and CAD iterations.",
+      "results": "Add CAD screenshots, drawings, DXF exports, and fabrication photos if available.",
+      "tools": "Add your tools, source-code repository link, design files, and relevant documentation here. Only share team or course materials you have permission to publish."
+    }
+  }
+}
